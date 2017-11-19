@@ -1,4 +1,6 @@
 package ThePrap;
+
+//altered new Robot
 import robocode.*;
 import robocode.HitByBulletEvent;
 import robocode.HitRobotEvent;
